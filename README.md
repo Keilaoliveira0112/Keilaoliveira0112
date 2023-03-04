@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clasimplicio&hide=stars&show_icons=true&theme=transparent)]
-(https://github.com/Keilaoliveira0112/github-readme-stats)
-
 ## Estou aprendendo
 
 <div style="display: inline_block"><br>
